@@ -1,2 +1,1 @@
 # CNU_Cyber_Campus_discord_bot
-# CNU_Cyber_Campus_discord_bot
